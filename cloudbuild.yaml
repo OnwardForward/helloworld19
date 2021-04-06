@@ -34,7 +34,7 @@ substitutions:
    
     
     # Developers ONLY change
-    _VERSION: v1.0
+    _VERSION: v2.0
     
 options:
     substitution_option: 'ALLOW_LOOSE'
