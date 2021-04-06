@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: app-dev1
-        image: kserge2001
+        image: kserge2001/gcloud:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
